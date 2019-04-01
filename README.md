@@ -3,4 +3,4 @@ Part of Speech Tagging of Sanskrit text using Machine Learning and Deep learning
 
 The dataset we used were collected from Univrsal dependnecies.
 
-
+The POS tagging application was developed using the machine learning algorithms and deep learning algorithms. The word embeddings were implemented uing both Word2vec and Fasttext.
